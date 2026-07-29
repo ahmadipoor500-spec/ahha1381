@@ -5,3 +5,10 @@
     border: 0%;
     margin: 0%;
 }
+header{
+    background-color: bisque;
+    align-items: center;
+    justify-items: center;
+    border-radius: 10px;
+    margin: 10%;
+}
